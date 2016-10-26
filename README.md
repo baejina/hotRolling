@@ -16,4 +16,4 @@
     arguments: interval option
 
 # description
-    Korea Web portal site "Naver" component hotranking same function
+    This is text up rolling
